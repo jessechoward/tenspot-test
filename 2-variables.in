@@ -1,0 +1,11 @@
+set z $
+set a 70
+add z a
+add $ 9
+set p $
+mul a 5
+set z 0
+set a 0
+mul a z
+set u t
+sub p 0

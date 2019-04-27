@@ -1,0 +1,4 @@
+run 1-basic-arithmetic.in
+set b $
+run 2-variables.in
+run 2-variables.in

@@ -1,0 +1,8 @@
+add 7 5
+sub 10 1
+div 30 5
+mul 22 20
+div 5 2
+div 10 0
+div 0 0
+add 100 -1
